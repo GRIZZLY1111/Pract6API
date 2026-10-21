@@ -70,7 +70,7 @@ namespace Pract6.Controllers
         }
 
         [HttpPatch("{id:int}")]
-        public IActionResult Patch([FromRoute] int id, [FromBody] Recipe updatedRecipe)
+        public IActionResult Patch([FromRoute] int id, [FromBody] RecipePatch updatedRecipe)
         {
             var recipe = _context.Recipes.Find(id);
             if (recipe == null) 
@@ -80,7 +80,7 @@ namespace Pract6.Controllers
                 recipe.Calories = updatedRecipe.Calories;
 
             if(updatedRecipe.IsVegetarian == false || updatedRecipe.IsVegetarian == true) 
-                recipe.IsVegetarian = updatedRecipe.IsVegetarian;
+                recipe.IsVegetarian = Convert.ToBoolean(updatedRecipe.IsVegetarian);
 
             if(!string.IsNullOrEmpty(updatedRecipe.Name))
                 recipe.Name = updatedRecipe.Name;

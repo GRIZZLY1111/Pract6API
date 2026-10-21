@@ -88,7 +88,7 @@
       },
       {
         "Name": "updatedRecipe",
-        "Type": "Pract6.Models.Recipe",
+        "Type": "Pract6.Models.RecipePatch",
         "IsRequired": true
       }
     ],

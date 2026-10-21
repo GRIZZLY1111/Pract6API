@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|solutionrelative:pract6\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract6\\pract6\\recipepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|solutionrelative:pract6\\recipepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract6\\pract6\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|solutionrelative:pract6\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract6\\pract6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|solutionrelative:pract6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract6\\pract6\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|solutionrelative:pract6\\models\\webapidatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|c:\\users\\admin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\trpo\\pract6\\pract6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E899D85-694F-45DB-93B5-94AD1D3D6D1B}|Pract6\\Pract6.csproj|solutionrelative:pract6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RecipePatch.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract6\\Pract6\\RecipePatch.cs",
+              "RelativeDocumentMoniker": "Pract6\\RecipePatch.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract6\\Pract6\\RecipePatch.cs",
+              "RelativeToolTip": "Pract6\\RecipePatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T06:23:11.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract6\\Pract6\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "Pract6\\Models\\Recipe.cs",
               "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract6\\Pract6\\Models\\Recipe.cs",
               "RelativeToolTip": "Pract6\\Models\\Recipe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T10:31:18.786Z",
               "EditorCaption": ""
@@ -49,7 +66,7 @@
               "RelativeDocumentMoniker": "Pract6\\Controllers\\RecipesController.cs",
               "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract6\\Pract6\\Controllers\\RecipesController.cs",
               "RelativeToolTip": "Pract6\\Controllers\\RecipesController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAApwE4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T10:10:46.173Z",
               "EditorCaption": ""
@@ -64,11 +81,12 @@
               "RelativeToolTip": "Pract6\\Models\\WebApiDatabaseContext.cs",
               "ViewState": "AgIAAKsAAAAAAAAAAAAiwDEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T10:05:25.364Z"
+              "WhenOpened": "2026-10-15T10:05:25.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\TRPO\\Pract6\\Pract6\\Program.cs",
               "RelativeDocumentMoniker": "Pract6\\Program.cs",
@@ -76,8 +94,7 @@
               "RelativeToolTip": "Pract6\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T10:04:19.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T10:04:19.537Z"
             }
           ]
         }

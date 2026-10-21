@@ -169,3 +169,4 @@ C:\Users\admin\OneDrive\Рабочий стол\TRPO\Pract6\Pract6\obj\Debug\net
 C:\Users\admin\OneDrive\Рабочий стол\TRPO\Pract6\Pract6\obj\Debug\net8.0\Pract6.pdb
 C:\Users\admin\OneDrive\Рабочий стол\TRPO\Pract6\Pract6\obj\Debug\net8.0\Pract6.genruntimeconfig.cache
 C:\Users\admin\OneDrive\Рабочий стол\TRPO\Pract6\Pract6\obj\Debug\net8.0\ref\Pract6.dll
+C:\Users\admin\OneDrive\Рабочий стол\TRPO\Pract6\Pract6\obj\Debug\net8.0\Pract6.sourcelink.json

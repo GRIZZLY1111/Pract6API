@@ -143,17 +143,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Recipe"
+                "$ref": "#/components/schemas/RecipePatch"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Recipe"
+                "$ref": "#/components/schemas/RecipePatch"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Recipe"
+                "$ref": "#/components/schemas/RecipePatch"
               }
             }
           }
@@ -253,6 +253,36 @@
           },
           "isVegetarian": {
             "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RecipePatch": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "cuisine": {
+            "type": "string",
+            "nullable": true
+          },
+          "cookingTime": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "calories": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "isVegetarian": {
+            "type": "boolean",
+            "nullable": true
           }
         },
         "additionalProperties": false
